@@ -7,6 +7,6 @@ data:
   JWT_SECRET: testing
   POSTGRESS_DB: udacity_ms_db
   POSTGRESS_HOST: udacity-ms-db.c3hlxlortpuz.us-east-2.rds.amazonaws.com
-  URL: http://localhost:8100
+  URL: http://a2ebd4c65388740028ab88e0147fc442-737856934.us-east-2.elb.amazonaws.com
 metadata:
   name: env-config
