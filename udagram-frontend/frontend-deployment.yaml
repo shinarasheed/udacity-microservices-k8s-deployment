@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: udagram-frontend
-          image: shinarasheed/udagram-frontend
+          image: shinarasheed/udagram-frontend:v3
           ports:
             - containerPort: 80
