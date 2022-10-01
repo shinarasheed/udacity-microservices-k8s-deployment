@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend-reverseproxy
-          image: shinarasheed/udagram-reverseproxy:v1
+          image: shinarasheed/udagram-reverseproxy:v2
           ports:
             - containerPort: 80
           resources:
