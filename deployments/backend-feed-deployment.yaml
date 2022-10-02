@@ -17,7 +17,6 @@ spec:
       restartPolicy: Always
       containers:
         - name: backend-feed
-          imagePullPolicy: Always
           image: shinarasheed/udagram-api-feed:v4
           ports:
             - containerPort: 8080

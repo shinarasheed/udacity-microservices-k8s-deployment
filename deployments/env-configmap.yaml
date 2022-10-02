@@ -5,8 +5,8 @@ data:
   AWS_PROFILE: default
   AWS_REGION: us-east-1
   JWT_SECRET: testing
-  POSTGRESS_DB: udacity_ms_db
-  POSTGRESS_HOST: udacity-ms-db.c6ecpcwl6jl0.us-east-1.rds.amazonaws.com
-  URL: http://a7861aebc88774d5c968174162b70c58-893205693.us-east-1.elb.amazonaws.com
+  POSTGRES_DB: udacity_ms_db
+  POSTGRES_HOST: udacity-ms-db.c6ecpcwl6jl0.us-east-1.rds.amazonaws.com
+  URL: http://aff96d35fbdf24f1383ef2e154f5e7d9-844988515.us-east-1.elb.amazonaws.com.com
 metadata:
   name: env-config
