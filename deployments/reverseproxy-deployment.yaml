@@ -18,7 +18,7 @@ spec:
       containers:
         - name: backend-reverseproxy
           imagePullPolicy: Always
-          image: shinarasheed/udagram-reverseproxy:v2
+          image: shinarasheed/udagram-reverseproxy:v3
           ports:
             - containerPort: 8080
           resources:
